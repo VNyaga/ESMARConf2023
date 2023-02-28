@@ -1,0 +1,6 @@
+author,pathogen,tp,fn,fp,tn
+bachmann_2010,NG,23,0,16,352
+cosentino_2012,NG,21,0,0,478
+Moncada_2019,NG,65,18,2,797
+Ota_2009,NG,29,0,0,219
+Schachter_2008,NG,17,0,0,186
